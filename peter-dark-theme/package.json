@@ -1,0 +1,15 @@
+{
+  "name": "peter-dark-theme",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "Based on the Base16 Tomorrow Dark Theme, but slightly darker background and slightly darker comments.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/peter-dark-theme",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
